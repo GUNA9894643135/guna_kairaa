@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guna_kairaa/static/css/main.666014de.css",
+    "main.js": "/guna_kairaa/static/js/main.8dc335ce.js",
+    "static/js/453.419a5d54.chunk.js": "/guna_kairaa/static/js/453.419a5d54.chunk.js",
+    "index.html": "/guna_kairaa/index.html",
+    "main.666014de.css.map": "/guna_kairaa/static/css/main.666014de.css.map",
+    "main.8dc335ce.js.map": "/guna_kairaa/static/js/main.8dc335ce.js.map",
+    "453.419a5d54.chunk.js.map": "/guna_kairaa/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666014de.css",
+    "static/js/main.8dc335ce.js"
+  ]
+}
